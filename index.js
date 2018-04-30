@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments) {
 
       newstring.push = (`${musicians} plays ${instruments}`)
     }
-
+return newstring
 }
