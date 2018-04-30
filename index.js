@@ -9,7 +9,7 @@ return newstring
 
 function johnLennonFacts(facts){
     for (i=0; i <facts.length; i++) {
-      return (`facts[i] + ${!!!}`)
+      return facts
     }
 
 }
