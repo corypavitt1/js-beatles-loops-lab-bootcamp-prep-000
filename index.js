@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments) {
 
       newstring.push = (`${musicians[i]} plays ${instruments}`)
     }
-return newstring
+return newstring[]
 }
