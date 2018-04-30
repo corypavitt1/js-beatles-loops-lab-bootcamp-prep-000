@@ -21,6 +21,6 @@ function iLoveTheBeatles(1) {
   var emptyArray = [];
   do{ return 'I love the Beatles';
 i++
-} while (i<8)
-
+} while (i<15)
+  
 }
