@@ -17,10 +17,10 @@ function johnLennonFacts(facts){
 return newfacts
 }
 
-function iLoveTheBeatles(1) {
+function iLoveTheBeatles(num) {
   var emptyArray = [];
   do{ return 'I love the Beatles';
 i++
 } while (i<15)
-  
+
 }
