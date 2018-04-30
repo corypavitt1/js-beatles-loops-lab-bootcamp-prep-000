@@ -9,7 +9,7 @@ return newstring
 
 function johnLennonFacts(facts){
   var i = 0
-    while ( i < facts.length;) {
+    while ( i < facts.length) {
       facts.push(`${facts[i]}!!!`)
       i++;
     }
