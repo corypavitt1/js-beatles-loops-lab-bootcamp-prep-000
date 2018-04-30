@@ -9,9 +9,10 @@ return newstring
 
 function johnLennonFacts(facts){
   var i = 0
+  var newfacts = []
     while ( i < facts.length) {
-      facts.push(`${facts[i]}!!!`)
+      newfacts.push(`${facts[i]}!!!`)
       i++;
     }
-return facts
+return newfacts
 }
