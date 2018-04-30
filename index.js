@@ -20,8 +20,8 @@ return newfacts
 function iLoveTheBeatles(num) {
   var emptyArray = [];
   do{ emptyArray.push('I love the Beatles!');
-  i++
+  num++
 
-} while (i<15)
+} while (num<15)
 
 }
