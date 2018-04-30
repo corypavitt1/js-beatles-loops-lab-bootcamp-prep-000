@@ -20,7 +20,7 @@ return newfacts
 function iLoveTheBeatles(num) {
   var emptyArray = [];
   do{ return 'I love the Beatles';
-i++
+
 } while (num<15)
 
 }
