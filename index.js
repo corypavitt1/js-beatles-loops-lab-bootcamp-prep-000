@@ -8,8 +8,8 @@ return newstring
 }
 
 function johnLennonFacts(facts){
-    for (var i=0; i <facts.length; i++) {
-      facts.push(`${facts[i]}!!!)
+    while (var i=0; i <facts.length; i++) {
+      facts.push(`${facts[i]}!!!`)
     }
 return facts
 }
